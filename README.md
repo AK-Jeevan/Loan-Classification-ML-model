@@ -4,11 +4,8 @@ This project applies Logistic Regression to classify loan applicants as either g
 
 📊 Features
 Data preprocessing and cleaning
-
 Logistic Regression model training
-
 Evaluation using confusion matrix and classification metrics
-
 Clear and interpretable results for decision-making
 
 🧠 Model
